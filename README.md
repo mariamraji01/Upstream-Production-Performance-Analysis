@@ -205,7 +205,8 @@ This project demonstrates how production data can be transformed into actionable
 ---
 
 ## 📄 Project Presentation
-[Download Full Presentation (PDF)]()
+[Download Full Presentation (PDF)](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Upstream%20Production%20Analysis.pdf)
+
 This slide deck covers:
 - Business Problem & Objectives
 - Data Cleaning & Modeling Process
