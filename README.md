@@ -126,6 +126,7 @@ The following KPIs were developed using DAX:
 - Average Downtime Hours
 - Year-over-Year Production Growth
 - Well Health Status
+  ![Metrics](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Metrics.jpeg)
 ---
 
 # 📈 Power BI Dashboard Structure
