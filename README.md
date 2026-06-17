@@ -15,7 +15,9 @@ This project presents an end-to-end Power BI analysis of Nigerian Deepwater Asse
 Through interactive dashboards, the analysis transforms raw production data into actionable insights that support data-driven decision-making across production, operations, and asset management teams.
 
 ![Dashboard Overview](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Dashboard%20Overview.png)
+
 ---
+
 ## 🎯 Business Problem
 
 Upstream oil and gas operators continuously balance production targets, operational efficiency, and asset reliability. However, production declines are often preceded by subtle warning signs such as increasing downtime, rising lifting costs, aging wells, and deteriorating equipment performance.
