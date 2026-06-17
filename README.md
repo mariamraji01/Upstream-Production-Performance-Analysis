@@ -137,11 +137,12 @@ The following KPIs were developed using DAX:
 >*Provide a high-level view of production performance across wells, fields, and operational assets.?*
 >
 📊 Key Insights
-🛢️ Total oil production reached 8.2 million barrels (+33.6% YoY growth), showing strong production performance.
-🔥 Gas production stood at 5.32K MCF, supporting overall hydrocarbon output.
-📊 Average daily production remained healthy at 9.42K barrels across 22 active wells, indicating stable operations.
-🌍 Forcados field was the top contributor, followed by Bonny Light, Pennington, and Bonga.
-🧭 Top-performing wells (Well 5, Well 2, Well 1) consistently drove the majority of total production.
+
+- Total oil production reached 8.2 million barrels (+33.6% YoY growth), showing strong production performance.
+- Gas production stood at 5.32K MCF, supporting overall hydrocarbon output.
+- Average daily production remained healthy at 9.42K barrels across 22 active wells, indicating stable operations.
+- Forcados field was the top contributor, followed by Bonny Light, Pennington, and Bonga.
+- Top-performing wells (Well 5, Well 2, Well 1) consistently drove the majority of total production.
 ### Dashboard Preview
 
 ![Executive Overview](executive-overview.png)
