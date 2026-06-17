@@ -158,13 +158,10 @@ The following KPIs were developed using DAX:
 ## 3️⃣ Risk & Reliability
 >*Identify wells showing signs of declining performance and operational risk.?*
 >
--Most wells are classified as Healthy, indicating overall system stability.
-
--A few wells (e.g. Well 21 and Well 22) are flagged as At Risk, due to low production and high water cut.
-
--Lifting costs vary widely, with some wells exceeding $1,700 per barrel.
-
--Early warning signals are detected using combined monitoring of uptime, water cut, and lifting cost.
+- Most wells are classified as Healthy, indicating overall system stability.
+- A few wells (e.g. Well 21 and Well 22) are flagged as At Risk, due to low production and high water cut.
+- Lifting costs vary widely, with some wells exceeding $1,700 per barrel.
+- Early warning signals are detected using combined monitoring of uptime, water cut, and lifting cost.
 
 ![Risk & Reliability](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Risk%20%26%20Reliability%20Dashboard.jpeg)
 
