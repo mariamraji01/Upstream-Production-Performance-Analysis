@@ -126,29 +126,22 @@ The following KPIs were developed using DAX:
 - Average Downtime Hours
 - Year-over-Year Production Growth
 - Well Health Status
-
-# 📈 Dashboard Structure
-
 ---
+
+# 📈 Power BI Dashboard Structure
 
 ## 1️⃣ Executive Overview
 
 ### Purpose
 
-Provide a high-level view of production performance across wells, fields, and operational assets.
-
-### Key Focus Areas
-
-- Total Oil Production
-- Total Gas Production
-- Production Growth
-- Average Water Cut
-- Average Daily Production
-- Active Wells
-- Monthly Production Trend
-- Top Producing Wells
-- Production Distribution by Field
-
+>*Provide a high-level view of production performance across wells, fields, and operational assets.?*
+>
+📊 Key Insights
+🛢️ Total oil production reached 8.2 million barrels (+33.6% YoY growth), showing strong production performance.
+🔥 Gas production stood at 5.32K MCF, supporting overall hydrocarbon output.
+📊 Average daily production remained healthy at 9.42K barrels across 22 active wells, indicating stable operations.
+🌍 Forcados field was the top contributor, followed by Bonny Light, Pennington, and Bonga.
+🧭 Top-performing wells (Well 5, Well 2, Well 1) consistently drove the majority of total production.
 ### Dashboard Preview
 
 ![Executive Overview](executive-overview.png)
@@ -163,13 +156,12 @@ Evaluate operational performance by examining uptime, downtime, and the impact o
 
 ### Key Focus Areas
 
-- Uptime Performance
-- Total Downtime Hours
-- Average Downtime Hours
-- Downtime Severity Distribution
-- Well Life Distribution
-- Downtime vs Well Age Analysis
-- Production Efficiency Trends
+📊 Key Insights
+🛢️ Total Oil Production reached 8.2 million barrels over the period, reflecting a strong +33.6% year-on-year growth, indicating improved operational performance and output efficiency.
+🔥 Gas Production stood at 5.32K MCF, complementing oil output and contributing to overall hydrocarbon performance.
+📈 Average Daily Production is stable at 9.42K barrels, supported by 22 active wells, showing consistent field activity and operational reliability.
+🌍 Forcados Field emerged as the top contributing field, followed by strong outputs from Bonny Light, Pennington, and Bonga, highlighting key production hubs.
+🧭 The top-performing wells (Well 5, Well 2, and Well 1) consistently drove the majority of production, indicating a concentration of output in a few high-performing assets.
 
 ### Dashboard Preview
 
