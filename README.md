@@ -102,7 +102,7 @@ The dataset was transformed into a Star Schema model to improve report performan
 - Oil Quality Dimension
 - Flow Control Dimension
 
-  ![Star Schema](Star%20Schema.png)
+  ![Star Schema](Star%20Schema.jpeg)
 
 This structure enabled efficient filtering, aggregation, and advanced DAX calculations.
 
