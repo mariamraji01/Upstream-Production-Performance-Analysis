@@ -70,7 +70,7 @@ Several data preparation and transformation steps were performed to improve anal
 - Standardized naming conventions
 - Validated production and downtime records
 
-  [Cleaned Data](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Cleaned%20Data.jpeg)
+  ![Cleaned Data](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Cleaned%20Data.jpeg)
 
 ### Feature Engineering
 Created analytical categories including:
