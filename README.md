@@ -12,7 +12,7 @@ The upstream oil and gas industry relies heavily on efficient production operati
 
 This project presents an end-to-end Power BI analysis of Nigerian Deepwater Assets, designed to monitor production performance, evaluate operational efficiency, and identify wells that may require closer operational attention.
 
-![Dashboard Overview](Dashboard%20Overview.png_)
+![Dashboard Overview](Dashboard%20Overview.png)
 
 Through interactive dashboards, the analysis transforms raw production data into actionable insights that support data-driven decision-making across production, operations, and asset management teams.
 
