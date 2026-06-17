@@ -15,7 +15,6 @@ This project presents an end-to-end Power BI analysis of Nigerian Deepwater Asse
 Through interactive dashboards, the analysis transforms raw production data into actionable insights that support data-driven decision-making across production, operations, and asset management teams.
 
 ![Dashboard Overview](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Dashboard%20Overview.png)
-
 ---
 ## 🎯 Business Problem
 
