@@ -76,7 +76,7 @@ Several data preparation and transformation steps were performed to improve anal
 Created analytical categories including:
 
 #### Well Life Classification
-- New Wells      - Mid-Life Wells      - Mature Wells
+- New Wells     
 - Mid-Life Wells
 - Mature Wells
 
@@ -89,6 +89,8 @@ Created analytical categories including:
 - Healthy
 - Monitor
 - At Risk
+
+---
 
 ### Data Modeling
 
