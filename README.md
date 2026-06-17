@@ -2,7 +2,7 @@
 
 ### End-to-End Data-Driven Analysis of Nigerian Deepwater Assets
 
-![Project Cover](Cover Image.jpeg)
+![Project Cover](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Cover%20Image.jpeg)
 
 ---
 
