@@ -153,7 +153,7 @@ The following KPIs were developed using DAX:
 - Key downtime drivers include hydrate blockage, ESP failure, weather disruptions, and sand production.
 - A clear positive correlation exists between well age, downtime, and lifting cost.
 
-![Operational Efficiency](screenshots/operational-efficiency.png)
+![Operational Efficiency](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Operational%20Efficiency%20Dashboard.jpeg))
 
 ---
 
