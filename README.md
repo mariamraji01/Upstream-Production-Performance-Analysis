@@ -56,8 +56,8 @@ The dataset contains operational and production-related information from Nigeria
 - Flow Control Metrics
 - Oil Quality Information
 - Basin Information
-- Operator Information
-- Production Dates
+- Spud Dates
+- Report Dates
 
 ---
 
@@ -101,6 +101,8 @@ The dataset was transformed into a Star Schema model to improve report performan
 - Basin Dimension
 - Oil Quality Dimension
 - Flow Control Dimension
+
+  ![Star Schema](Star%20Schema.png)
 
 This structure enabled efficient filtering, aggregation, and advanced DAX calculations.
 
