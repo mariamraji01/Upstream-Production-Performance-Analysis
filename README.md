@@ -163,7 +163,7 @@ The following KPIs were developed using DAX:
 -Lifting costs vary widely, with some wells exceeding $1,700 per barrel.
 -Early warning signals are detected using combined monitoring of uptime, water cut, and lifting cost.
 
-![Risk & Reliability](screenshots/risk-reliability.png)
+![Risk & Reliability](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Risk%20%26%20Reliability%20Dashboard.jpeg)
 
 ---
 
