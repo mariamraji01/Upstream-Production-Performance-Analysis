@@ -134,8 +134,6 @@ The following KPIs were developed using DAX:
 
 >*Provide a high-level view of production performance across wells, fields, and operational assets.?*
 >
-📊 Key Insights
-
 - Total oil production reached 8.2 million barrels (+33.6% YoY growth), showing strong production performance.
 - Gas production stood at 5.32K MCF, supporting overall hydrocarbon output.
 - Average daily production remained healthy at 9.42K barrels across 22 active wells, indicating stable operations.
@@ -153,26 +151,17 @@ The following KPIs were developed using DAX:
 - Key downtime drivers include hydrate blockage, ESP failure, weather disruptions, and sand production.
 - A clear positive correlation exists between well age, downtime, and lifting cost.
 
-![Operational Efficiency](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Operational%20Efficiency%20Dashboard.jpeg))
+![Operational Efficiency](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Operational%20Efficiency%20Dashboard.jpeg)
 
 ---
 
 ## 3️⃣ Risk & Reliability
-
-
-
-Identify wells showing signs of declining performance and operational risk.
-
-### Key Focus Areas
-
-- Well Health Status
-- Reliability Monitoring
-- Water Cut Impact
-- Risk Classification
-- Downtime Risk Assessment
-- Well Performance Monitoring
-
-### Dashboard Preview
+>*Identify wells showing signs of declining performance and operational risk.?*
+>
+-Most wells are classified as Healthy, indicating overall system stability.
+-A few wells (e.g. Well 21 and Well 22) are flagged as At Risk, due to low production and high water cut.
+-Lifting costs vary widely, with some wells exceeding $1,700 per barrel.
+-Early warning signals are detected using combined monitoring of uptime, water cut, and lifting cost.
 
 ![Risk & Reliability](screenshots/risk-reliability.png)
 
