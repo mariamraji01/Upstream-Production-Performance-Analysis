@@ -132,7 +132,7 @@ The following KPIs were developed using DAX:
 
 ## Page 1️⃣ Executive Overview
 
->*Provide a high-level view of production performance across wells, fields, and operational assets.?*
+>*Provide a high-level view of production performance across wells, fields, and operational assets.*
 >
 - Total oil production reached 8.2 million barrels (+33.6% YoY growth), showing strong production performance.
 - Gas production stood at 5.32K MCF, supporting overall hydrocarbon output.
@@ -144,7 +144,7 @@ The following KPIs were developed using DAX:
 ---
 
 ## Page 2️⃣ Operational Efficiency
->*Evaluate operational performance by examining uptime, downtime, and the impact of asset age on production efficiency.?*
+>*Evaluate operational performance by examining uptime, downtime, and the impact of asset age on production efficiency.*
 >
 - A total of 12,667 downtime hours was recorded, averaging about 9 hours per event.
 - Mature (older) wells show significantly higher downtime and increased lifting costs.
@@ -156,7 +156,7 @@ The following KPIs were developed using DAX:
 ---
 
 ## 3️⃣ Risk & Reliability
->*Identify wells showing signs of declining performance and operational risk.?*
+>*Identify wells showing signs of declining performance and operational risk.*
 >
 - Most wells are classified as Healthy, indicating overall system stability.
 - A few wells (e.g. Well 21 and Well 22) are flagged as At Risk, due to low production and high water cut.
@@ -167,50 +167,36 @@ The following KPIs were developed using DAX:
 
 ---
 
-## 💡 Key Insights
+## 💡 Key Findings & Recommendations
 
-### Production Performance
+### Findings
 
-- Total oil production reached **8.2 million barrels** across the reporting period.
-- Production recorded a strong **+33.6% year-over-year increase**, indicating improved asset performance.
-- A small number of fields contributed a significant proportion of total production.
+| # | Finding |
+|---|--------|
+| 1 | Strong performance with **8.2M barrels oil production (+33.6% YoY)** and stable growth in output |
+| 2 | Operational stability is high with **95% average uptime**, despite notable downtime events |
+| 3 | **Well age is a key performance driver**, with mature wells showing higher downtime and lifting costs |
+| 4 | Production is concentrated in a few assets, with **Forcados field and top wells driving majority output** |
+| 5 | Early risk detection is effective using combined signals from **uptime, water cut, and lifting cost** |
+| 6 | A small number of wells (e.g. **Well 21 & Well 22**) account for most underperformance signals |
 
-### Operational Efficiency
+### Recommendations
 
-- Average uptime remained above **95%**, reflecting generally stable operations.
-- Mature wells recorded higher downtime compared to newer wells.
-- Increased downtime negatively impacted production efficiency.
-
-### Risk & Reliability
-
-- Wells with elevated downtime showed signs of declining operational performance.
-- Higher water cut levels were associated with increased operational concerns.
-- Several wells were identified for closer monitoring based on health status indicators.
+-Prioritize maintenance on mature wells to reduce downtime
+-Focus optimization on top-producing wells and fields
+-Continuously monitor at-risk wells for early intervention
+-Explore predictive analytics for downtime prevention and cost reduction
+-Track wells with rising water cut as an early decline indicator
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Power BI Desktop
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Star Schema Design
-- Microsoft Excel
-
----
-
-## 📈 Business Value
-
-This dashboard provides stakeholders with a centralized view of production performance, operational efficiency, and asset reliability.
-
-Key business benefits include:
-
-- Improved production monitoring
-- Early identification of operational issues
-- Enhanced downtime visibility
-- Better asset performance tracking
-- Data-driven operational decision-making
 
 ---
 
@@ -222,6 +208,15 @@ This project demonstrates how production data can be transformed into actionable
 
 ---
 
+## 📄 Project Presentation
+[Download Full Presentation (PDF)]()
+This slide deck covers:
+•  Business Problem & Objectives
+•  Data Cleaning & Modeling Process
+•  Detailed Dashboard Walkthrough (All 3 Pages)
+•  Key Insights & Recommendations
+---
+
 ## 👩‍💻 Author
 
 **Raji Mariam**
@@ -229,10 +224,6 @@ This project demonstrates how production data can be transformed into actionable
 Data Analyst | Power BI | SQL | Data Storytelling
 
 ### Connect With Me
-
 - LinkedIn: www.linkedin.com/in/mariam-raji055
 - Email: mariamraji50@gmail.com
 
----
-
-⭐ If you found this project interesting, feel free to connect with me and explore my other analytics projects.
