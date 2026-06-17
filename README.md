@@ -205,7 +205,11 @@ This project demonstrates how production data can be transformed into actionable
 
 ---
 
-## 📄 Project Presentation
+## 📄 Full Project Presentation
+
+🔗 **[View Full Presentation Slides](https://docs.google.com/presentation/d/13p9xtyHDqJUtCWmPsfq9pQkSPqpxFyxGoWeJ1eZhlkk/edit?usp=drivesdk)**
+
+---
 [Download Full Presentation (PDF)](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Upstream%20Production%20Analysis.pdf)
 
 This slide deck covers:
