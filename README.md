@@ -173,21 +173,17 @@ The following KPIs were developed using DAX:
 
 | # | Finding |
 |---|--------|
-| 1 | Strong performance with **8.2M barrels oil production (+33.6% YoY)** and stable growth in output |
-| 2 | Operational stability is high with **95% average uptime**, despite notable downtime events |
-| 3 | **Well age is a key performance driver**, with mature wells showing higher downtime and lifting costs |
-| 4 | Production is concentrated in a few assets, with **Forcados field and top wells driving majority output** |
-| 5 | Early risk detection is effective using combined signals from **uptime, water cut, and lifting cost** |
-| 6 | A small number of wells (e.g. **Well 21 & Well 22**) account for most underperformance signals |
+| 1 | The portfolio shows strong performance with **+33.6% year-on-year oil production growth**, indicating improved output and operational progress. |
+| 2 |Well age is a major performance driver, with mature wells experiencing **higher downtime** and **increased lifting costs.** |
+| 3 |Production is highly concentrated in a small number of wells and fields, with a few key assets contributing disproportionately to total output. |
+| 4 | The system now supports early **risk detection**, enabling identification of underperforming wells through integrated monitoring of uptime, water cut, and lifting cost. |
 
 ### Recommendations
-
--Prioritize maintenance on mature wells to reduce downtime
--Focus optimization on top-producing wells and fields
--Continuously monitor at-risk wells for early intervention
--Explore predictive analytics for downtime prevention and cost reduction
--Track wells with rising water cut as an early decline indicator
-
+- Prioritize maintenance on mature wells to reduce downtime
+- Focus optimization on top-producing wells and fields
+- Continuously monitor at-risk wells for early intervention
+- Explore predictive analytics for downtime prevention and cost reduction
+- Track wells with rising water cut as an early decline indicator
 ---
 
 ## Technologies Used
@@ -200,7 +196,7 @@ The following KPIs were developed using DAX:
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 Production optimization extends beyond increasing output. Sustainable operational success requires visibility into asset performance, downtime behavior, and reliability indicators.
 
@@ -211,10 +207,11 @@ This project demonstrates how production data can be transformed into actionable
 ## 📄 Project Presentation
 [Download Full Presentation (PDF)]()
 This slide deck covers:
-•  Business Problem & Objectives
-•  Data Cleaning & Modeling Process
-•  Detailed Dashboard Walkthrough (All 3 Pages)
-•  Key Insights & Recommendations
+- Business Problem & Objectives
+- Data Cleaning & Modeling Process
+- Detailed Dashboard Walkthrough (All 3 Pages)
+- Key Insights & Recommendations
+
 ---
 
 ## 👩‍💻 Author
