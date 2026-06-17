@@ -130,9 +130,7 @@ The following KPIs were developed using DAX:
 
 # 📈 Power BI Dashboard Structure
 
-## 1️⃣ Executive Overview
-
-### Purpose
+## Page 1️⃣ Executive Overview
 
 >*Provide a high-level view of production performance across wells, fields, and operational assets.?*
 >
