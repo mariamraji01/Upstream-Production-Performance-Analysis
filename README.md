@@ -143,7 +143,7 @@ The following KPIs were developed using DAX:
 - Average daily production remained healthy at 9.42K barrels across 22 active wells, indicating stable operations.
 - Forcados field was the top contributor, followed by Bonny Light, Pennington, and Bonga.
 
-![Executive Overview](Executive%20Overview%20Dashboard.png)
+![Executive Overview](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis/blob/main/Executive%20Overview%20Dashboard.jpeg)
 
 ---
 
