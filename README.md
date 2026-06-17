@@ -61,7 +61,7 @@ The dataset contains operational and production-related information from Nigeria
 
 ---
 
-## 🧹 Data Preparation & Transformation
+##  Data Preparation & Transformation
 
 Several data preparation and transformation steps were performed to improve analytical quality and reporting flexibility.
 
@@ -127,8 +127,6 @@ The following KPIs were developed using DAX:
 - Year-over-Year Production Growth
 - Well Health Status
 
----
-
 # 📈 Dashboard Structure
 
 ---
@@ -153,7 +151,7 @@ Provide a high-level view of production performance across wells, fields, and op
 
 ### Dashboard Preview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ---
 
