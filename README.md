@@ -145,22 +145,13 @@ The following KPIs were developed using DAX:
 
 ---
 
-## 2️⃣ Operational Efficiency
-
-### Purpose
-
-Evaluate operational performance by examining uptime, downtime, and the impact of asset age on production efficiency.
-
-### Key Focus Areas
-
-📊 Key Insights
-🛢️ Total Oil Production reached 8.2 million barrels over the period, reflecting a strong +33.6% year-on-year growth, indicating improved operational performance and output efficiency.
-🔥 Gas Production stood at 5.32K MCF, complementing oil output and contributing to overall hydrocarbon performance.
-📈 Average Daily Production is stable at 9.42K barrels, supported by 22 active wells, showing consistent field activity and operational reliability.
-🌍 Forcados Field emerged as the top contributing field, followed by strong outputs from Bonny Light, Pennington, and Bonga, highlighting key production hubs.
-🧭 The top-performing wells (Well 5, Well 2, and Well 1) consistently drove the majority of production, indicating a concentration of output in a few high-performing assets.
-
-### Dashboard Preview
+## Page 2️⃣ Operational Efficiency
+>*Evaluate operational performance by examining uptime, downtime, and the impact of asset age on production efficiency.?*
+>
+- A total of 12,667 downtime hours was recorded, averaging about 9 hours per event.
+- Mature (older) wells show significantly higher downtime and increased lifting costs.
+- Key downtime drivers include hydrate blockage, ESP failure, weather disruptions, and sand production.
+- A clear positive correlation exists between well age, downtime, and lifting cost.
 
 ![Operational Efficiency](screenshots/operational-efficiency.png)
 
@@ -168,7 +159,7 @@ Evaluate operational performance by examining uptime, downtime, and the impact o
 
 ## 3️⃣ Risk & Reliability
 
-### Purpose
+
 
 Identify wells showing signs of declining performance and operational risk.
 
