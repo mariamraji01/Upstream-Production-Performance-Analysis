@@ -70,6 +70,8 @@ Several data preparation and transformation steps were performed to improve anal
 - Standardized naming conventions
 - Validated production and downtime records
 
+  [Cleaned Data](Cleaned%20Data.jpeg)
+
 ### Feature Engineering
 Created analytical categories including:
 
